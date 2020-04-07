@@ -1,2 +1,6 @@
 # Practica_NormativaCodigo_PDS
-A PDS practice where we have made a set of rules in order to coordinate with the team members and apply the basic values of automated integration
+El objetivo de esta práctica es establecer un estandar de codificación para que todos los trabajadores actuen de forma coordinada, poner en práctica los principios básicos de integración automatizada y aprender las buenas prácticas de propiedad colectiva. En este caso se nos ha proporcionado un código inicial sobre el que aplicaremos las reglas establecidas.
+
+# Autores
+Ivan Aguado Perulero,
+Jorge Serrano Pérez
